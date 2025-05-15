@@ -7,6 +7,11 @@ packages:
   gitUrl: https://github.com/sbudhira
   gitUsername: sbudhira
   gitBranch: main
+- name: Test20Project
+  gitServerName: sbnew
+  gitUrl: https://github.com/sbudhira
+  gitUsername: sbudhira
+  gitBranch: main
 services:
 - serviceName: project.test4.integrations:fs4
   packages:
