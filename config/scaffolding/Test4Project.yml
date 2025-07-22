@@ -8,7 +8,7 @@ packages:
   gitUsername: sbudhira
   gitBranch: main
 - name: Test20Project
-  gitServerName: sbnew
+  gitServerName: sbnew1
   gitUrl: https://github.com/sbudhira
   gitUsername: sbudhira
   gitBranch: main
