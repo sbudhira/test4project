@@ -9,7 +9,7 @@
   <COMMENT></COMMENT>
 </INVOKE>
 
-<INVOKE TIMEOUT="" SERVICE="wm.client.scaffolding.git:save" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+<INVOKE NAME="Alert" TIMEOUT="" SERVICE="pub.alert:channels" VALIDATE-IN="$none" VALIDATE-OUT="$none">
   <COMMENT></COMMENT>
 </INVOKE>
 
