@@ -16,4 +16,8 @@
 <INVOKE NAME="Alert" TIMEOUT="" SERVICE="pub.alert:channels" VALIDATE-IN="$none" VALIDATE-OUT="$none">
   <COMMENT></COMMENT>
 </INVOKE>
+
+<INVOKE NAME="Alert" TIMEOUT="" SERVICE="pub.alert:channels" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+  <COMMENT></COMMENT>
+</INVOKE>
 </FLOW>
